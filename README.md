@@ -8,56 +8,56 @@ Our page provides clear and reliable details on Direct Recruitment for AP Govern
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/alluri-sitarama-raju/" target="_blank" rel="noopener">Alluri Sitharama Raju</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/anakapalli/" target="_blank" rel="noopener">Anakapalli</a></td>
+<td style="width: 50%;">Alluri Sitharama Raju</a></td>
+<td style="width: 50%;">Anakapalli</a></td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/anantapur/" target="_blank" rel="noopener">Anantapuramu</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/annamayya/" target="_blank" rel="noopener">Annamayya</a></td>
+<td style="width: 50%;">Anantapuramu</a></td>
+<td style="width: 50%;">Annamayya</a></td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/bapatla/" target="_blank" rel="noopener">Bapatla</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/chittoor/" target="_blank" rel="noopener">Chittoor</a></td>
+<td style="width: 50%;">Bapatla</td>
+<td style="width: 50%;">Chittoor</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/east-godavari/" target="_blank" rel="noopener">East Godavari</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/eluru/" target="_blank" rel="noopener">Eluru</a></td>
+<td style="width: 50%;">East Godavari</td>
+<td style="width: 50%;">Eluru</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/guntur/" target="_blank" rel="noopener">Guntur</a></td>
+<td style="width: 50%;">Guntur</td>
 <td style="width: 50%;">Kakinada</td>
 </tr>
 <tr>
 <td style="width: 50%;">Konaseema</td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/krishna/" target="_blank" rel="noopener">Krishna</a></td>
+<td style="width: 50%;">Krishna</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/kurnool/" target="_blank" rel="noopener">Kurnool</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/nandyal/" target="_blank" rel="noopener">Nandyal</a></td>
+<td style="width: 50%;">Kurnool</td>
+<td style="width: 50%;">Nandyal</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/ntr/" target="_blank" rel="noopener">NTR</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/palnadu/" target="_blank" rel="noopener">Palnadu</a></td>
+<td style="width: 50%;">NTR</td>
+<td style="width: 50%;">Palnadu</a></td>
 </tr>
 <tr>
 <td style="width: 50%;">Parvathipuram Manyam</td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/prakasam/" target="_blank" rel="noopener">Prakasam</a></td>
+<td style="width: 50%;">Prakasam</td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/nellore/" target="_blank" rel="noopener">Sri Potti Sriramulu Nellore</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/sri-sathya-sai/" target="_blank" rel="noopener">Sri Sathya Sai</a></td>
+<td style="width: 50%;">Sri Potti Sriramulu Nellore</a></td>
+<td style="width: 50%;">Sri Sathya Sai</a></td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/srikakulam/" target="_blank" rel="noopener">Srikakulam</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/tirupati/" target="_blank" rel="noopener">Tirupati</a></td>
+<td style="width: 50%;">Srikakulam</a></td>
+<td style="width: 50%;">Tirupati</a></td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/visakhapatnam/" target="_blank" rel="noopener">Visakhapatnam</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/vizianagaram/" target="_blank" rel="noopener">Vizianagaram</a></td>
+<td style="width: 50%;">Visakhapatnam</a></td>
+<td style="width: 50%;">Vizianagaram</a></td>
 </tr>
 <tr>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/west-godavari/" target="_blank" rel="noopener">West Godavari</a></td>
-<td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/kadapa/" target="_blank" rel="noopener">YSR Kadapa</a></td>
+<td style="width: 50%;">West Godavari</a></td>
+<td style="width: 50%;">YSR Kadapa</a></td>
 
 for more govt job alerts at <a href="https://www.govtjobsblog.in/" target="_blank" rel="noopener">www.govtjobsblog.in</a>
 
