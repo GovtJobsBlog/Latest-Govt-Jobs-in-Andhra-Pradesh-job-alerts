@@ -59,7 +59,7 @@ Our page provides clear and reliable details on Direct Recruitment for AP Govern
 <td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/west-godavari/" target="_blank" rel="noopener">West Godavari</a></td>
 <td style="width: 50%;"><a href="https://www.govtjobsblog.in/govt-jobs/andhra-pradesh/kadapa/" target="_blank" rel="noopener">YSR Kadapa</a></td>
 
-
+for more govt job alerts at <a href="https://www.govtjobsblog.in/" target="_blank" rel="noopener">www.govtjobsblog.in</a>
 
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
